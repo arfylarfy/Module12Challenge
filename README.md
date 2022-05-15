@@ -1,6 +1,6 @@
 # Module 12 Challenge
 
-A Jupyter notebook that contains data preparation, analysis, and visualizations for all the time series data that the company needs to understand in order to drive revenue. Text and comments are used to document findings, and question prompts have been answered.
+Credit risk poses a classification problem that’s inherently imbalanced. This is because healthy loans easily outnumber risky loans. In this Challenge, you’ll use various techniques to train and evaluate models with imbalanced classes. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 ## Technologies
 This project is written in python. The required libraries and dependencies needed in order to use the application are shown in the following image:
@@ -9,13 +9,11 @@ This project is written in python. The required libraries and dependencies neede
 
 ## Examples
 
-![1](https://github.com/arfylarfy/Module11Challenge/blob/main/Images/1.png)
+![1](https://github.com/arfylarfy/Module12Challenge/blob/master/images/1.png)
 
-![2](https://github.com/arfylarfy/Module11Challenge/blob/main/Images/2.png)
+![2](https://github.com/arfylarfy/Module12Challenge/blob/master/images/2.png)
 
-![3](https://github.com/arfylarfy/Module11Challenge/blob/main/Images/3.png)
-
-![4](https://github.com/arfylarfy/Module11Challenge/blob/main/Images/4.png)
+![3](https://github.com/arfylarfy/Module12Challenge/blob/master/images/3.png)
 
 
 
